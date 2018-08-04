@@ -1,0 +1,20 @@
+/* .title {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 50px;
+} */
+
+#friend-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.title .message .score {
+  text-align: center;
+  color: red;
+}
+
+#nav > div {
+  color: red;
+  text-align: center;
+}
